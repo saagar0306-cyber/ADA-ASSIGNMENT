@@ -1,8 +1,8 @@
 # Algorithm Strategies Mini Project
 
 ## 👨‍🎓 Student Details
-Name: Sagar Singh
-Roll No: 2401010068
+Name: Ansh Chhikara
+Roll No: 2401010041
 Section: C  
 Specialization: BTech CSE Core  
 
